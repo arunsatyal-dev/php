@@ -1,3 +1,14 @@
 <?php
-
-echo "Hello world";
+$now = date("Y-m-d H:i:s");
+?>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello PHP</title>
+  </head>
+  <body>
+    <h1>Hello from PHP 👋</h1>
+    <p>Server time: <?php echo $now; ?></p>
+  </body>
+</html>
