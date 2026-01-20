@@ -5,7 +5,7 @@ $now = date("Y-m-d H:i:s");
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Hello PHP</title>
+    <title>Hello PHP sda</title>
   </head>
   <body>
     <h1>Hello from PHP 👋</h1>
